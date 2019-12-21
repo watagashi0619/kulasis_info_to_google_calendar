@@ -15,7 +15,7 @@ import time
 import locale
 
 SCOPES = ['https://www.googleapis.com/auth/calendar']
-CALENDER_ID="mcu0vbls0of5p1nl5lhjtqq8bk@group.calendar.google.com"
+CALENDER_ID="じぶんのかれんだーあいでぃー"
 
 class GetKULASIS():
 
